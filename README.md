@@ -1,5 +1,5 @@
 # SongRecommendationSystem
-1. The objective was to predict the popularity of any song and build a recommendation system to recommend songs
+1. The objective was to predict the popularity of any song and build a recommendation system to recommend songs. (Spotify data was used from kaggle)
 2. To start with, I performed Exploratory Data Analysis or EDA to derive insights from the data using visualisations, graphs by creating certain KPIs. Readings were as follows:
 -> more than 1500+ popular songs are identified and added every year in Spotify
 -> most popular Artist from year 1921 to 2020 were the Beatles
